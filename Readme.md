@@ -4,25 +4,25 @@
 
 Crear un directorio con git Bash iniciamos con el comando git init
 
-![captura imagen 1](Imagenes/Practica1/1.jpg)
+![captura imagen 1](Imagenes/Pactica1/1.jpg)
 
 ---
 
 Como se puede ver, al hacer git status -s tengo un archivo, el cual esta en rojo y con ?? porque esta en seguimiento por git, añadirlo uso el comando git add . asi lo añado todo, tambien podria poner el nombre del archivo en vez del punto asi solo cogeria el archivo en cuestio y no todo lo que se encuentre dentro 
 
-![captura imagen 2](Imagenes/Practica1/2.jpg)
+![captura imagen 2](Imagenes/Pactica1/2.jpg)
 
 ---
 
 Ahora que ya tengo seguimiento de nuestro archivo, para crear una copia an nuestro repositorio local hacemos un commit por el cual guardamos klo que tenemos hecho hasta ese momento de nuestro archivo 
 
-![captura imagen 3](Imagenes/Practica1/3.jpg)
+![captura imagen 3](Imagenes/Pactica1/3.jpg)
 
 ---
 
 Cuando ya tenemos commits realizados, podemos guardar estas copias que hemos hecho en un repositio online como puede ser en gitHub, por lo tanto lo primero es crear una conexion con el repositorio con el comando git remote add origin y la url del repositio. Asi podemos hacer un push, el cual subira nuestro archivo de nuestro repositorio local a este repositorio online.
 
-![captura imagen 4](Imagenes/Practica1/4.jpg)
+![captura imagen 4](Imagenes/Pactica1/4.jpg)
 
 ---
 
